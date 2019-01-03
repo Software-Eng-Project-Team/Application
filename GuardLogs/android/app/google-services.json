@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1015271803255",
+    "firebase_url": "https://guardlogs-9d2fe.firebaseio.com",
+    "project_id": "guardlogs-9d2fe",
+    "storage_bucket": "guardlogs-9d2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015271803255:android:66db6a06045f1011",
+        "android_client_info": {
+          "package_name": "com.guardlogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015271803255-m8v1qbp1emg9e5ccmvi0imu5i4431mev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFsnmUEMT2kLqF_a7p23Br4HD5AW-uiZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
