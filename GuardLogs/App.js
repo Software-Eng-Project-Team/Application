@@ -10,7 +10,7 @@ const RootStack = createStackNavigator(
 {
   Input : Input,  
   Profile: ProfileScreen,
-  login: LoginPage, 
+  Login: LoginPage, 
   edit: Edit
 },
 {
